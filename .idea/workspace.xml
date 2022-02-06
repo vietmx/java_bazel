@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ae23dd4-5414-49b9-945e-c8041aa2e386" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="242ReOEk7sEaUfVap1BkSn7fyrz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bazelgreeting/src/main/java/com/maixuanviet" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\JAVA_PROJECT\java_bazel\bazelgreeting\src\main\java\com\maixuanviet" />
+      <recent name="D:\Project\JAVA_PROJECT\java_bazel\bazelapp\src\main\java\com\maixuanviet" />
+      <recent name="D:\Project\JAVA_PROJECT\java_bazel" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ae23dd4-5414-49b9-945e-c8041aa2e386" name="Default Changelist" comment="" />
+      <created>1642826789097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642826789097</updated>
+      <workItem from="1642826792587" duration="685000" />
+      <workItem from="1644036902636" duration="2444000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1644135446571">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1644135446571" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1644135446571">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1644135446571" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1644135446570">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1644135446570" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1644135446571">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1644135446571" />
+    <state x="342" y="220" key="new project wizard" timestamp="1642826921244">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="220" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1642826921244" />
+  </component>
+</project>

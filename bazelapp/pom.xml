@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>java_bazel</artifactId>
+        <groupId>com.maixuanviet</groupId>
+        <version>1.0.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>bazelapp</artifactId>
+    <packaging>jar</packaging>
+    <name>bazelapp</name>
+    <description>bazelapp</description>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <java.version>11</java.version>
+        <bazelgreeting.version>1.0.0</bazelgreeting.version>
+        <commons-lang3.version>3.9</commons-lang3.version>
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.maixuanviet</groupId>
+            <artifactId>bazelgreeting</artifactId>
+            <version>${bazelgreeting.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>${commons-lang3.version}</version>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <resources>
+            <resource>
+                <directory>src/main/resources</directory>
+            </resource>
+        </resources>
+    </build>
+
+
+</project>
